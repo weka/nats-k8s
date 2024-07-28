@@ -315,6 +315,7 @@ container:
     tag: 2.10.17-alpine
     pullPolicy:
     registry:
+  resources: {}
 
   # container port options
   # must be enabled in the config section also
